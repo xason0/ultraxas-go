@@ -86,7 +86,7 @@ export default function Navbar({
   };
 
   const handleInstallClick = () => {
-    window.open("https://bwm-xmd-go.vercel.app", "_blank");
+    window.open("https://www.ultraxas.com/", "_blank");
   };
 
   // Focus input when search is activated
