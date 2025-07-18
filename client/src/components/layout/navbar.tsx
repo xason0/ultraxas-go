@@ -97,33 +97,24 @@ export default function Navbar({
   }, [isSearchActive]);
 
   const links = [
-    { name: "BWM XMD GO YouTube", url: "https://go.bwmxmd.online" },
-    { name: "BWM XMD Social Media Downloader", url: "https://social.media.bwmxmd.online" },
-    { name: "BWM XMD Chatting Room", url: "https://ibrahimadams.site/bwm_xmd_chatting_room" },
-    { name: "BWM XMD Tools Web", url: "https://bwm-xmd-tools.onrender.com" },
-    { name: "Channel Link", url: "https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" },
-    { name: "API Web", url: "https://api.bwmxmd.online" },
-    { name: "Payment Checkout", url: "https://payment.bwmxmd.online" },
-    { name: "Business Web", url: "https://business.bwmxmd.online" },
-    { name: "BWM XMD Website", url: "https://www.ibrahimadams.site" },
-    { name: "Deployment Web", url: "https://www.ibrahimadams.site/Deploy" },
-    { name: "BWM XMD Repo", url: "https://github.com/ibrahimadams254/BWM-XMD-QUANTUM" },
-    { name: "GitHub Account", url: "https://github.com/ibrahimaitech" },
-    { name: "Scan Session", url: "https://www.ibrahimadams.site/scanner" },
-    { name: "Telegram Group", url: "https://t.me/+Xw2gNHsEpCRmZTNk" },
-    { name: "Instagram", url: "https://www.instagram.com/ibrahimadamstech" },
-    { name: "Telegram", url: "https://t.me/ibraahadams" },
-    { name: "TikTok Account", url: "https://tiktok.com/@ibrahimai_adams" },
-    { name: "YouTube Account", url: "https://youtube.com/@ibrahimaitech" },
-    { name: "How to deploy on Render", url: "https://youtu.be/NpJ4_Y4xR9I?si=1WUvCNDV_GwSv3O0" },
-    { name: "How to deploy on Render TikTok Tutorial", url: "https://vm.tiktok.com/ZMBbuoxop" },
+    { name: "Ultraxas Homepage", url: "https://www.ultraxas.com/" },
+    { name: "Ultraxas Chatbot", url: "https://t.me/UltraXas_Chatbot" },
+    { name: "Ultraxas Music Bot", url: "https://t.me/Ultraxas_Musicbot" },
+    { name: "Ultraxas Downloader Bot", url: "https://t.me/Ultraxas_DownloaderBot" },
+    { name: "Ultraxas Shortener", url: "https://t.me/Uxurl_Bot" },
+    { name: "GitHub Account", url: "https://github.com/xason0" },
+    { name: "Facebook", url: "https://www.facebook.com/share/15qsuhGdfM/?mibextid=wwXIfr" },
+    { name: "Telegram", url: "https://t.me/ultraxasdev" },
+    { name: "TikTok Account", url: "https://tiktok.com/@ultraxas" },
+    { name: "Snapchat", url: "https://t.snapchat.com/qVtFVvSf" },
+    { name: "Whatsapp", url: "https://wa.me/447405817307?" },
   ];
 
   return (
     <header className="fixed top-0 left-0 right-0 bg-secondary z-30 border-b border-gray-800">
       <div className="flex items-center justify-between px-4 py-3">
         <h1 className="text-xl font-bold text-white whitespace-nowrap">
-          ULTRAXAS-GO <span className="text-primary">GO</span>
+          ULTRAXAS GO <span className="text-primary">PRO</span>
         </h1>
         
         <div className="flex items-center space-x-2 md:space-x-3">
