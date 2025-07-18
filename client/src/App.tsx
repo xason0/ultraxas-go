@@ -101,7 +101,7 @@ function App() {
         
         {/* Footer with creator info */}
         <div className="text-center text-xs text-gray-500 py-3 mt-4">
-          <p>Created by Ibrahim Adams</p>
+          <p>Develop by Manasseh Amoako</p>
         </div>
       </div>
     </MediaContext.Provider>
