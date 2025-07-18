@@ -84,7 +84,7 @@ export function UrlModal({ isOpen, onClose }: UrlModalProps) {
   };
 
   const openSocialMediaDownloader = () => {
-    window.open("https://social.media.bwmxmd.online", "_blank");
+    window.open("coming soonn by ultraxas", "_blank");
   };
 
   if (!showOptions) {
