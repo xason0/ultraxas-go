@@ -1,0 +1,10 @@
+{
+  "build": {
+    "builder": "nixpacks",
+    "config": {
+      "buildCommand": "npm install && npm run build",
+      "installCommand": "echo 'Install handled in build step'",
+      "startCommand": "npm start"
+    }
+  }
+}

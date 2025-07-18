@@ -1,0 +1,4 @@
+build:
+  config:
+    USE_NPM_INSTALL: true
+    NPM_CONFIG_PRODUCTION: false
