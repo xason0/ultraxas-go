@@ -168,7 +168,7 @@ export default function Navbar({
           </Button>
           
           <div className="mt-12 space-y-6">
-            <h2 className="text-2xl font-bold text-white mb-6">BWM XMD LINKS</h2>
+            <h2 className="text-2xl font-bold text-white mb-6">ULTRAXAS LINKS</h2>
             <div className="grid grid-cols-1 gap-3">
               {links.map((link, index) => (
                 <a
